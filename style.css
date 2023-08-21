@@ -1,0 +1,36 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Quicksand&family=Roboto5`&display=swap"); */
+
+
+#main {
+    font-family: "Roboto", serif;
+    text-align: center;
+}
+
+#btn {
+    padding: 8px 20px;
+    border: none;
+    border-left: 4px solid #222;
+    border-right: 4px solid #222;
+    margin: 24px 0px;
+    font-size: 20px;
+    color: #f64d4d;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+#btn:hover {
+    padding: 8px 36px;
+    border-left: 8px solid #222;
+    border-right: 8px solid #222;
+    letter-spacing: 3px;
+    transition: all 400ms7 ease;
+}
+
+#img {
+    height: 430px;
+    object-fit: cover;
+}
+
+#author {
+    margin: 8px;
+}
